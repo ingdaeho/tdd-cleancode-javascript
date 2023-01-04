@@ -6,3 +6,7 @@
 	path = js-lotto
 	url = https://github.com/ingdaeho/js-lotto
 	branch = ingdaeho
+[submodule "js-racingcar"]
+	path = js-racingcar
+	url = https://github.com/ingdaeho/js-racingcar
+	branch = ingdaeho
