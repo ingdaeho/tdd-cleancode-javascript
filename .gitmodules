@@ -2,3 +2,7 @@
 	path = js-calculator
 	url = https://github.com/ingdaeho/js-calculator
 	branch = ingdaeho
+[submodule "js-lotto"]
+	path = js-lotto
+	url = https://github.com/ingdaeho/js-lotto
+	branch = ingdaeho
